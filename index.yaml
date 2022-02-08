@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sosivio:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2022-02-08T14:49:46.253469246+02:00"
+    description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
+    digest: d5ed3d7c1f1de9881fa35d891e1afa7e2bc2487a3fa9c3f30e15ebf4d951f54f
+    name: sosivio
+    type: application
+    urls:
+    - https://sosivio.github.io/helm-chart/chart/sosivio-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-02-08T14:49:46.249749794+02:00"
