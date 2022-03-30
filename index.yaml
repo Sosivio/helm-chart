@@ -11,14 +11,4 @@ entries:
     urls:
     - https://helm.sosiv.io/chart/sosivio-1.3.0.tgz
     version: 1.3.0
-  - apiVersion: v2
-    appVersion: 1.2.0
-    created: "2022-03-30T11:12:46.114093446Z"
-    description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
-    digest: 223e6dd4844ce089c9c4ab94f40229e043ef4b49b3c4c9a33da5876f7e387dea
-    name: sosivio
-    type: application
-    urls:
-    - https://helm.sosiv.io/chart/sosivio-1.0.0.tgz
-    version: 1.0.0
 generated: "2022-03-30T11:12:46.112634512Z"
