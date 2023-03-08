@@ -3,9 +3,9 @@ entries:
   sosivio:
   - apiVersion: v2
     appVersion: 1.5.3
-    created: "2023-02-08T13:20:09.6928504Z"
+    created: "2023-03-08T17:55:53.245314815+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
-    digest: 8482b66f12f51c0955e9f77a9206479af64dc6f02887dc4adf6a867e173ccba0
+    digest: 772b9761a69582debab2f335131999759f69e3082a6dbb272b09b0999010dfa5
     name: sosivio
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 1.5.3
   - apiVersion: v2
     appVersion: 1.5.2
-    created: "2023-02-08T13:20:09.691978371Z"
+    created: "2023-03-08T17:55:53.244195826+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: ca012a1852349d11adfd70bac3d478c6db8eb2bae23bfaf6cfadbaf7b99148eb
     name: sosivio
@@ -23,7 +23,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2023-02-08T13:20:09.691176319Z"
+    created: "2023-03-08T17:55:53.243022143+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: 30f53b53457bc7e2ca290f3d889c66bb8d691ee20ce928392bdf5a921bd54fd3
     name: sosivio
@@ -33,7 +33,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.4
-    created: "2023-02-08T13:20:09.690327795Z"
+    created: "2023-03-08T17:55:53.242587795+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: 66dc300b7133c41cca0ac538e600b7bceff8fe3ee27e2806c8435e25354a0445
     name: sosivio
@@ -43,7 +43,7 @@ entries:
     version: 1.4.4
   - apiVersion: v2
     appVersion: 1.4.3
-    created: "2023-02-08T13:20:09.689434525Z"
+    created: "2023-03-08T17:55:53.242114415+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: b573734fabfe1dfd529c052365acace3939b1d08eaef2e1d877bca8aedff7a5c
     name: sosivio
@@ -53,7 +53,7 @@ entries:
     version: 1.4.3
   - apiVersion: v2
     appVersion: 1.4.2
-    created: "2023-02-08T13:20:09.688556948Z"
+    created: "2023-03-08T17:55:53.241666855+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: dba07b26ad083a6802dbf5ede3476b70107526a360fb8123d8ce9d5d9668c008
     name: sosivio
@@ -63,7 +63,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: 1.4.1
-    created: "2023-02-08T13:20:09.687931903Z"
+    created: "2023-03-08T17:55:53.241236+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: d9a0bea36cdd4454f870450eb940f865df192e1d918c153f35b4ec8f6f6502c7
     name: sosivio
@@ -73,7 +73,7 @@ entries:
     version: 1.4.1
   - apiVersion: v2
     appVersion: 1.3.1
-    created: "2023-02-08T13:20:09.686765055Z"
+    created: "2023-03-08T17:55:53.240118932+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: e566963204d17a3019ff268e9d8427ba447a225c66a9a516531ed4ab890335a9
     name: sosivio
@@ -83,7 +83,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2023-02-08T13:20:09.686178025Z"
+    created: "2023-03-08T17:55:53.239612565+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: ee856d07d7f8d7dadeed629fcafcccc30bd1ef723fdb3d110a715a2acd43447a
     name: sosivio
@@ -93,7 +93,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-02-08T13:20:09.685638465Z"
+    created: "2023-03-08T17:55:53.239019497+02:00"
     description: A Helm chart to deploy Sosivio Using an operator and Custom Resource
     digest: 223e6dd4844ce089c9c4ab94f40229e043ef4b49b3c4c9a33da5876f7e387dea
     name: sosivio
@@ -101,4 +101,4 @@ entries:
     urls:
     - https://helm.sosiv.io/chart/sosivio-1.0.0.tgz
     version: 1.0.0
-generated: "2023-02-08T13:20:09.678780892Z"
+generated: "2023-03-08T17:55:53.238295159+02:00"
